@@ -21,7 +21,7 @@ reply_keyboard1 = [
     ['Public_key', 'Quantity'],
     ['Secret_Key', 'Note'],
     ['/Done'],
-    ['/Main_menu'],
+    ['/Main_menu']
 ]
 markup2 = ReplyKeyboardMarkup(reply_keyboard1, one_time_keyboard=True)
 user_d = {}
