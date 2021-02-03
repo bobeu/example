@@ -17,6 +17,7 @@ It is divided into two parts:
     - Check account information or status
 
   ### Part 2
+    - cd algo=telegram-bot-tut2
     - This part experiments a signing transaction via a Buy-Token utility. 
 
 ### To interact with this application, 
