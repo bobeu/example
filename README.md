@@ -10,16 +10,11 @@
   - For more infomation on how to create a telegram bot and get your bot token, visit https://core.telegram.org/api
   
 ## **What you can do with this Application** 
-It is divided into two parts:
-  ### Part 1
-    - Create an account (Algorand compatible account) 
-    - Get private key from Mnemonic 
-    - Check account information or status
-
-  ### Part 2
-    - cd algo=telegram-bot-tut2
-    - This part experiments a signing transaction via a Buy-Token utility. 
-
+  - Create an account (Algorand compatible account) 
+  - Get private key from Mnemonic 
+  - Check account information or status
+  - Other supplementary fucntions.
+  
 ### To interact with this application, 
 You should own a telegram account 
   - Launch the bot. 
